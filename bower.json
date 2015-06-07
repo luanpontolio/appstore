@@ -1,0 +1,25 @@
+{
+  "name": "store-app",
+  "version": "0.0.0",
+  "authors": [
+    "luan_pontolio <luan.pontolio@gmail.com>"
+  ],
+  "description": "First project with the Polymer 0.5",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-icon-button": "Polymer/core-icon-button#^0.5.0",
+    "font-roboto": "Polymer/font-roboto#^0.5.0",
+    "core-header-panel": "Polymer/core-header-panel#^0.5.0",
+    "core-toolbar": "Polymer/core-toolbar#^0.5.0",
+    "paper-tabs": "Polymer/paper-tabs#^0.5.0",
+    "core-ajax": "Polymer/core-ajax#^0.5.0"
+  }
+}
